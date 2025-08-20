@@ -1,0 +1,12 @@
+2025-08-18 22:10:05,386 - __main__ - INFO - Database initialized successfully
+2025-08-18 22:10:05,404 - __main__ - INFO - Customer registered: CUST17555352055768
+2025-08-18 22:10:05,421 - __main__ - INFO - Customer registered: CUST17555352056424
+2025-08-18 22:10:05,435 - __main__ - INFO - Customer registered: CUST17555352053843
+2025-08-18 22:10:05,436 - __main__ - INFO - Travel Booking System initialized
+2025-08-18 22:10:44,622 - __main__ - INFO - Database initialized successfully
+2025-08-18 22:10:44,624 - __main__ - INFO - Travel Booking System initialized
+2025-08-18 22:11:14,370 - __main__ - INFO - Hotel booking created: HT17555352748767
+2025-08-18 22:11:14,372 - __main__ - INFO - create_booking executed in 0.0190 seconds
+2025-08-18 22:15:10,394 - __main__ - INFO - Customer registered: CUST17555355107784
+2025-08-18 22:21:31,567 - __main__ - INFO - Database initialized successfully
+2025-08-18 22:21:31,569 - __main__ - INFO - Travel Booking System initialized
